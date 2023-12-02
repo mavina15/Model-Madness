@@ -29,8 +29,39 @@ AUC Score: 0.9980893592004703
 
 Logistic Regression has a precision of 0.97, a recall of 0.98 and an f1 score of 0.98.
 
+## K Nearest Neighbors
+K Nearest Neighbors is a machine learning model that is good for XYZ. 
+
+Model: KNeighborsClassifier
+
+
+Confusion Matrix:
+[[ 59   4]
+ [  3 105]]
+
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.94        63
+           1       0.96      0.97      0.97       108
+
+    accuracy                           0.96       171
+   macro avg       0.96      0.95      0.96       171
+weighted avg       0.96      0.96      0.96       171
 
 
 
+AUC Score: 0.9776601998824221
 
+K Nearest Neighbors has a precision of 0.97, a recall of 0.98 and an f1 score of 0.98.
 
+Final Rankings by F1:
+1
+2
+3
+
+Final Rankings by AUC:
+1
+2
+3
