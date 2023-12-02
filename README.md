@@ -27,6 +27,8 @@ weighted avg       0.98      0.98      0.98       171
 
 AUC Score: 0.9980893592004703
 
+Logistic Regression has a precision of 0.97, a recall of 0.98 and an f1 score of 0.98.
+
 
 
 
