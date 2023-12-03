@@ -70,3 +70,10 @@ Final Rankings by AUC:
 1
 2
 3
+
+ROC Visual
+![image](https://github.com/mavina15/modelmadness/assets/11577013/fdbd7491-ae37-408c-aef1-3779f228cab4)
+
+Preciscion-Recall Visual
+![image](https://github.com/mavina15/modelmadness/assets/11577013/84278c83-0335-4d79-ac72-2f4d5b549950)
+
